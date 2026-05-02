@@ -2,7 +2,7 @@
 
 |Property|Value|
 |-|-|
-|health|8|
+|health|5|
 |experience|42|
 |hunger|0|
 |weapon|sword (3 dmg)|

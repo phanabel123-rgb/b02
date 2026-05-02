@@ -12,3 +12,7 @@ Erfrischt und gestärkt machte sich Markus auf den Weg, um die letzte Etappe sei
 
 Mit eisernem Willen, marschierte er zum letzten Raum, wo der finale Boss vor ihm steht. Jetzt, kurz vor seinem Ziel, bündelte er all seine Kraft und ging los in dem Kampf.
 
+Der Boss war schwerer als gedacht. Markus litt nun unter mehreren Verletzungen. Lange darf der Kampf nicht andauern, sonst geriet er in großer Gefahr.
+
+
+
