@@ -1,0 +1,24 @@
+Git-Spiel:
+
+3.  Was passiert, wenn die Änderung im master identisch zu der in end ist? Was passiert, wenn die Änderung im master anders ist als in end?:
+
+Dungeon3a:
+
+Wenn es identisch ist, merged es normal.
+
+Dungeon3b:
+
+Wenn es anders ist, gibt es einen Konflikt. In der Datei muss man sich dann entscheiden, ob man den aktuellen Change oder den Change in dem Branch end oder beide akzeptiert.
+
+
+
+JUnit:
+
+Warum sind die von Ihnen formulierten Testfälle relevant?:
+
+Sie beinhalten die Methoden der Klassen und werden überprüft, ob diese auch funktionieren. Zudem werden invalide und fehlerhafte Inputs geprüft.
+
+Warum halten Sie die formulierten Testfälle für unterschiedlich?:
+
+
+Einerseits testet es gültige und ungültige Angaben. Dann wird ein Bereich getestet( z.B die Range von dem Gewicht). Außerdem wird ein Zustand getestet( z.B ist das Cafe leer; wie viele Katzen gibt es).
